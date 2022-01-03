@@ -1,0 +1,9 @@
+-test
+
+game, single player, story, fps
+
+gun- same as person concept (dial up), but start with one dial and progress to get more.
+
+level design- dramatic chang from close qauters to long range, destruction
+
+setting- steam punk, semi based of mc world BB
